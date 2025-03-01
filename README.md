@@ -1,9 +1,14 @@
-# React + Vite
+# 🌍 Travel Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 A simple React app that features:
+- **Fake Login System**: Users can log in without authentication.
+- **Interactive Map**: Select countries you’ve visited and save the visit date.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# reactApp-worldwise
+
+---
+
+## 📷 Screenshot
+
+
+![image](https://github.com/user-attachments/assets/b1632ea6-930e-4a6c-8700-8f696207eb25)
